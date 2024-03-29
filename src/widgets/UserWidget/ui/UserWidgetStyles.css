@@ -1,0 +1,31 @@
+.user-widget {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  text-align: left;
+  width: 800px;
+}
+.user-btn {
+  margin-bottom: 10px;
+}
+
+.user-info-table {
+  border: 1px solid #ccc;
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.user-info-table th,
+.user-info-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+.user-info-table th:first-child,
+.user-info-table td:first-child {
+  width: 300px;
+}
